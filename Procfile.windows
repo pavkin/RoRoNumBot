@@ -1,1 +1,1 @@
-web: python RoRoNumBot.py
+app: python RoRoNumBot.py
